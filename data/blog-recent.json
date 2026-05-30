@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "high-rtp-slots-myth-debunked",
+      "title": "高RTP老虎機不保證贏錢的統計學原理解析",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "我哋好多時都俾「高RTP」呢個數字迷惑咗，以為RTP高就一定贏，但事實真係咁簡單咩？",
+      "imageUrl": "https://pixabay.com/get/ga10e7cca59af882693d67fd7e110dbaa946084c3e07a66b6c500f2bc56e740f41a8c59bf46d7653868c17acf4baaffd35a408f93e3a3cdaacad8550a6a4ad4b5_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
