@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gc035553dcf01986d662ff803ea82d1e6146f1a3595f4b027913e66d08e821802fc778278e317f2160a670bb0deecdb72bd45c8b3b92caff370b550ca6f739ade_640.jpg"
+    },
+    {
       "slug": "high-rtp-slots-myth-debunked",
       "title": "高RTP老虎機不保證贏錢的統計學原理解析",
       "category": "undefined",
