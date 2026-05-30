@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "slot-volatility-levels-guide",
+      "title": "老虎機波動性：高低波動等級的定義及其對玩家體驗的影響",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "玩老虎機咁多年，我發現唔少朋友都忽略咗一個超關鍵因素：波動性！呢個直接影響你玩得開唔開心，甚至贏唔贏到錢㗎。",
+      "imageUrl": "https://pixabay.com/get/gb64b9e8740848e3a7ac07b16e18c235bfa0089b97498842acf22db90daf15fd3bf32c4c341f8ab2aad5c76457e0c0d2e_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "我哋好多時都俾「高RTP」呢個數字迷惑咗，以為RTP高就一定贏，但事實真係咁簡單咩？",
       "imageUrl": "https://pixabay.com/get/ga10e7cca59af882693d67fd7e110dbaa946084c3e07a66b6c500f2bc56e740f41a8c59bf46d7653868c17acf4baaffd35a408f93e3a3cdaacad8550a6a4ad4b5_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-29",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g79fd514ed624e47575632f35a9b045042710bb6714f6d651b91929c38838aa8d2f8ea6fef0539011ce6b5fe64036f864_640.jpg"
     }
   ]
 }
