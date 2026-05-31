@@ -61,8 +61,10 @@
       "category": "Bonus機制",
       "angle": "疑問句型",
       "image_theme": "slot bonus buy feature worth it analysis",
-      "status": "available",
-      "writing_style": "數學分析，含期望值計算，1000字"
+      "status": "used",
+      "writing_style": "數學分析，含期望值計算，1000字",
+      "slug": "slot-bonus-buy-analysis",
+      "used_date": "2026-05-31"
     },
     {
       "id": 7,
