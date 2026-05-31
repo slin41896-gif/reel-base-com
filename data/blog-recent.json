@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "slot-bonus-buy-analysis",
+      "title": "老虎機Bonus Buy功能解析：賠率結構與回報率研究",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "每次見到老虎機有Bonus Buy功能，我都忍唔住心郁郁想撳落去，到底呢個功能係咪真係值得博？",
+      "imageUrl": "https://pixabay.com/get/g27aa1573016a1fe3a208131c17c3edea8ac13280a682685c95ad0c397605a83371905d402286f68c18049719946e007c76f10aae83352e17ab7f8bef0bdc990d_640.jpg"
+    },
+    {
       "slug": "high-low-volatility-slots-guide",
       "title": "高波動與低波動老虎機風險特性比較及適合玩家類型解析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "玩老虎機咁多年，我發現唔少朋友都忽略咗一個超關鍵因素：波動性！呢個直接影響你玩得開唔開心，甚至贏唔贏到錢㗎。",
       "imageUrl": "https://pixabay.com/get/gb64b9e8740848e3a7ac07b16e18c235bfa0089b97498842acf22db90daf15fd3bf32c4c341f8ab2aad5c76457e0c0d2e_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-30",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/gc035553dcf01986d662ff803ea82d1e6146f1a3595f4b027913e66d08e821802fc778278e317f2160a670bb0deecdb72bd45c8b3b92caff370b550ca6f739ade_640.jpg"
     }
   ]
 }
