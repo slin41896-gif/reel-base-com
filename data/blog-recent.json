@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "high-low-volatility-slots-guide",
+      "title": "高波動與低波動老虎機風險特性比較及適合玩家類型解析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "玩老虎機咁多年，你係咪都有諗過，點解有啲機好似食錢咁，有啲又突然爆大獎？我哋今日就嚟拆解下箇中奧秘！",
+      "imageUrl": "https://pixabay.com/get/g99ce80b16f62121f454a93a53719d174e9fdc1d18fe70d97dec73378922eb145dd7a64d78ea6dd5e1de8add470b7aef87657b1047a7014d5f3538ee8be1728bd_640.jpg"
+    },
+    {
       "slug": "slot-volatility-levels-guide",
       "title": "老虎機波動性：高低波動等級的定義及其對玩家體驗的影響",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/gc035553dcf01986d662ff803ea82d1e6146f1a3595f4b027913e66d08e821802fc778278e317f2160a670bb0deecdb72bd45c8b3b92caff370b550ca6f739ade_640.jpg"
-    },
-    {
-      "slug": "high-rtp-slots-myth-debunked",
-      "title": "高RTP老虎機不保證贏錢的統計學原理解析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋好多時都俾「高RTP」呢個數字迷惑咗，以為RTP高就一定贏，但事實真係咁簡單咩？",
-      "imageUrl": "https://pixabay.com/get/ga10e7cca59af882693d67fd7e110dbaa946084c3e07a66b6c500f2bc56e740f41a8c59bf46d7653868c17acf4baaffd35a408f93e3a3cdaacad8550a6a4ad4b5_640.jpg"
     }
   ]
 }
