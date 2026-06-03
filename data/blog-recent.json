@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-03",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/ga232fe46636d964fde5ef83a89a3de8ec26ff6a8ff5a99e551721454e31389dcc204e0375f592c83e7eac2336b2cd45c6cc5c3b3f7553dc5fe512f00762b8b72_640.jpg"
+    },
+    {
+      "slug": "slot-bonus-dry-spell-analysis",
+      "title": "老虎機Bonus結束後的乾旱期現象：隨機演算法與玩家認知偏差的研究分析",
+      "category": "undefined",
+      "date": "2026-06-03",
+      "excerpt": "玩老虎機中完Bonus，係咪成日覺得之後會「乾旱」好耐？我哋都試過，嗰種失望真係好打擊士氣！",
+      "imageUrl": "https://pixabay.com/get/gca94f673486f6240e9f991d3b1424682b2bd26b9479e5e863e9b2714213016965ed9e19c3915739d88ff4987722a43a3c5a298fc3ed6cd260f47997b0630baec_640.jpg"
+    },
+    {
+      "slug": "slot-machine-rng-how-it-works",
+      "title": "老虎機隨機數生成器（RNG）運作原理解析：結果真的無法預測嗎",
+      "category": "老虎機技術分析",
+      "date": "2026-06-02",
+      "excerpt": "玩老虎機咁耐，你係咪都試過懷疑：到底個結果係咪真係隨機㗎？今日就等我哋一齊揭開RNG嘅神秘面紗！",
+      "imageUrl": "https://pixabay.com/get/gc4d98e10ce7f0d38e39bb424a837a5a52b8f4fc7e54eebc3493b3b60df32858a6eeacace4e91fa15107a7992668e3afe4428f278cc9c0ab1ac84c3e1d6ed7a4e_640.jpg"
+    }
+  ]
+}
